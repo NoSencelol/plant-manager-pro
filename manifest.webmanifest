@@ -1,0 +1,19 @@
+{
+  "name": "Plant Manager PRO",
+  "short_name": "Plant Manager",
+  "description": "Sortenarchiv, Nährstoffe, Messwerte und Sorten-Meisterschaft.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08120f",
+  "theme_color": "#0a1712",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
